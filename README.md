@@ -1,31 +1,37 @@
-# Personal Profile Website – Semantic HTML
+# Personal Profile Website
 
-## 📌 Overview
-This project is a simple and fully semantic **Personal Profile Website** built as part of a **Web Development Internship Task**.  
-The main goal of this task is to understand and implement **semantic HTML**, basic styling using **CSS**, and light interactivity using **JavaScript**, while following accessibility and best practices.
-
----
-
-## 🎯 Objectives
-- Understand the structure of a real-world HTML project
-- Use semantic HTML elements instead of generic `<div>` tags
-- Improve accessibility and readability of web pages
-- Practice clean code organization
-- Build confidence in frontend fundamentals
+##  Live Demo
+🔗 **Vercel Link:**  
+https://personal-profile-topaz-nine.vercel.app/
 
 ---
 
-## 🛠️ Technologies Used
+##  Overview
+This project is a fully semantic **Personal Profile Website** developed as part of a **Web Development Internship Task**.  
+The objective of this task is to practice **semantic HTML**, clean layout design using **CSS**, and basic interactivity using **JavaScript**, while following accessibility and industry best practices.
+
+---
+
+## Objectives
+- Implement semantic HTML elements instead of generic `<div>` tags
+- Build a clean and accessible personal profile page
+- Understand real-world folder and file structure
+- Practice responsive design fundamentals
+- Improve frontend coding standards
+
+---
+
+## Technologies Used
 - **HTML5** (Semantic HTML)
 - **CSS3** (Flexbox, Responsive Design)
 - **JavaScript** (Basic interactivity)
-- **VS Code** (Code Editor)
-- **Web Browser** (Chrome / Edge / Firefox)
+- **VS Code**
+- **Vercel** (Deployment)
 
 ---
 
-## 📂 Project Structure
-personal-profile/
+## Project Structure
+persnal-profile/
 │── index.html
 │── style.css
 │── script.js
@@ -35,31 +41,29 @@ personal-profile/
 
 ---
 
-## 🧩 Features
-- Semantic structure using `<header>`, `<nav>`, `<section>`, `<article>`, `<footer>`
-- Internal navigation with smooth scrolling
-- Responsive layout for mobile and desktop
-- Profile section with image and bio
+##  Features
+- Fully semantic HTML structure
+- Smooth internal navigation
+- Responsive design for all screen sizes
+- Profile image with accessibility-friendly `alt` text
 - Education, Skills, Projects, and Contact sections
-- Clean and readable code with comments
-- Accessibility-friendly structure (alt attributes, proper headings)
+- Clean, readable, and well-commented code
 
 ---
 
-## 👤 Personal Details
+## Personal Details
 - **Name:** Harsh  
 - **Degree:** Bachelor of Engineering (B.E.)  
 - **Branch:** Information Technology  
 - **University:** University of Mumbai  
-- **Year:** 3rd Year  
+- **Current Year:** 3rd Year  
 - **Role:** Web Development Intern  
 
 ---
 
-## 🚀 How to Run the Project
+##  How to Run Locally
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/personal-profile.git
-2. Open the folder in VS Code
-
-3. Open index.html in any web browser
+2. Open the project in VS Code
+3. Run index.html in any modern browser
